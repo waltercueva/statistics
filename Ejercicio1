@@ -2,8 +2,6 @@
 
 ### Análisis estadístico detallado utilizando datos de la ENL 2022, abordando todas las fases exploratorias, pruebas estadísticas y visualizaciones.
 
-
-# Librerías necesarias
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
